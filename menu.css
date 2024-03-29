@@ -1,0 +1,21 @@
+nav {
+	display: flex;
+	width: 250px;
+	flex-direction: column;
+}
+
+nav a {
+	border-style: solid;
+	border: 1px 1px 1px 1px;
+}
+
+.card {
+	border-style: solid;
+	border-color: black;
+	border: 1px 1px;
+	font-size: 24px;
+}
+
+body {
+	background-color: #a8a867;
+}
